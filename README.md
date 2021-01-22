@@ -4,7 +4,6 @@ Select your text on Laravel files and hit a command / key to turn into translata
 
 ## Features
 
-* Keybind "Ctrl+Alt+L" will envolve all selected texts with l10n functions.
 * You can use the command "laravel_lang" anywhere (or with new keybind).
 
 ## L10n functions
