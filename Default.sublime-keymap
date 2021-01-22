@@ -1,6 +1,0 @@
-[
-    {
-        "keys"    : ["ctrl+alt+l"],
-        "command" : "laravel_lang"
-    }
-]
