@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Laravel Lang for Sublime Text: ",
+        "caption": "Laravel Lang for Sublime Text: apply the function to text",
         "command": "laravel_lang"
     }
 ]
